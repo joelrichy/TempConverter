@@ -22,7 +22,6 @@ class Convertor:
 
 
 
-
 # main routine
 if __name__ == "__main__":
     root = Tk()
